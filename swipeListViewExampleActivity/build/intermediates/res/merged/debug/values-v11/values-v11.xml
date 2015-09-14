@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Android/Library/android-education-project/SwipeListViewExampleActivity1/swipeListViewExampleActivity/src/main/res/values-v11/themes.xml -->
+    <eat-comment/>
+    <style name="Theme.SwipeListView" parent="android:style/Theme.Holo.Light">
+    </style>
+</resources>
